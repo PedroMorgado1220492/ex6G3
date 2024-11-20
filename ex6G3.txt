@@ -2,4 +2,8 @@ Inicio
 Alinea 3B
 Ler vetor de A até N
 
+alinea_a
+
+alinea_a
+
 Fim
